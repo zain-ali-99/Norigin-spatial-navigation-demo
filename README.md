@@ -1,2 +1,2 @@
-# Norigin-spatial-navigation-demo
+# react-spatial-navigation-hooks
 Created with CodeSandbox
